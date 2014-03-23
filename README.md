@@ -1,6 +1,6 @@
 AStarPathFinding
 ================
-A simple a star path finding alorithm implementation
+A simple a star path finding alorithm implementation, written Spring 2012 semester for Game Programming course 
 
 Hotkeys:
 
