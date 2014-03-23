@@ -22,3 +22,7 @@ Q + Click: Place start node
 
 W + Click: Place end node
 
+
+Requires Microsoft XNA:
+http://en.wikipedia.org/wiki/Microsoft_XNA
+
