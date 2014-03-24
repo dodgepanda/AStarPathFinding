@@ -2,8 +2,7 @@ AStarPathFinding
 ================
 A simple a star path finding alorithm implementation, written Spring 2012 semester for Game Programming course 
 
-Hotkeys:
-
+Hotkeys:  
 Terrain hotkeys: press a number and click the square to lay down a terrain  
 0: No Terrain - No weight  
 1: Grass Terrain - 1.1 cost multiplier  
